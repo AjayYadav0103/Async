@@ -1,0 +1,12 @@
+.demo{
+    color: aqua;
+}
+.demo1{
+    color:pink;
+}
+.demo2{
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
